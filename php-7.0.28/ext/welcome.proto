@@ -1,0 +1,2 @@
+string welcome(string str)
+string goodbye(string str)

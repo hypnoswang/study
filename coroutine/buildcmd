@@ -1,0 +1,1 @@
+g++ -o th -Wall -std=gnu++11 -I$HOME/.local/include -L$HOME/.local/lib -levent -pthread *.cc

@@ -1,0 +1,1 @@
+./configure --prefix=/home/wangqiang-ms/php7 --with-config-file-path=/home/wangqiang-ms/php7/lib/ --with-welcome=shared --enable-fpm

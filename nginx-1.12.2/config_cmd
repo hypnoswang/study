@@ -1,0 +1,1 @@
+./configure --prefix=/home/wangqiang-ms/nginx/ --with-http_ssl_module --with-debug --with-threads --add-module=/home/wangqiang-ms/nginx1.12/nginx-1.12.2/src/mymodule/ --with-cc=/usr/bin/gcc --with-cc-opt='-std=c11 -I/home/wangqiang-ms/nginx1.12/nginx-1.12.2/src/mymodule/
